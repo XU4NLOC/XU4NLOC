@@ -1,267 +1,294 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<img src="assets/mission-control.svg" alt="XU4NLOC Mission Control" width="100%">
 
-<!--                         MATRIX TERMINAL HEADER                       -->
+# `XU4NLOC // MISSION CONTROL`
 
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+### DEVOPS / CLOUD ENGINEER · BACKEND-LEANING SOFTWARE ENGINEER
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:020604,45:003B24,100:00FF88&height=230&section=header&text=XU4NLOC&fontSize=68&fontColor=00FF88&fontAlignY=39&animation=fadeIn&desc=Le%20Xuan%20Loc%20%7C%20DevOps%20%2F%20Cloud%20%2F%20Automation&descAlignY=64&descSize=17&descColor=B7FFD9"
-width="100%"
-alt="XU4NLOC Matrix header"
-/>
+> **SYSTEM STATUS:** `ONLINE`  
+> **CURRENT OBJECTIVE:** `AUTOMATE · DEPLOY · OBSERVE · IMPROVE`
 
-<img
-src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=00FF88&center=true&vCenter=true&width=720&lines=%24+whoami;DevOps+%2F+Cloud+Engineer;Infrastructure+%7C+CI%2FCD+%7C+Containers;Automate.+Deploy.+Scale.;Linux+%7C+Docker+%7C+GCP+%7C+AWS+%7C+Go"
-alt="Terminal typing animation"
-/>
-
-<br>
-
-<img src="https://img.shields.io/badge/●_OPEN_TO_OPPORTUNITIES-050807?style=for-the-badge&labelColor=050807&color=00FF88" alt="Open to opportunities" />
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0b0b12?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=151022)](https://www.linkedin.com/in/le-xuanloc)
+[![Email](https://img.shields.io/badge/EMAIL-0b0b12?style=for-the-badge&logo=gmail&logoColor=9b5cff&labelColor=151022)](mailto:lexuanloc0501.work@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-XU4NLOC-0b0b12?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=151022)](https://github.com/XU4NLOC)
 
 </div>
 
+---
+
+## `01 // MISSION PROFILE`
+
+```text
+OPERATOR    : Le Xuan Loc
+CALLSIGN    : XU4NLOC
+CLASS       : DevOps / Cloud Engineer
+BACKGROUND  : Software Engineering + Cloud Technologies
+SPECIALTY   : Automation / Infrastructure / Deployment
+BASE        : Ho Chi Minh City, Vietnam
+```
+
+I'm a recent Information Technology graduate focused on **DevOps and cloud engineering**, with a software-engineering foundation in backend systems.
+
+My work sits where **code meets infrastructure**: containerizing services, automating delivery pipelines, deploying Linux-based environments, and keeping services observable and repeatable.
+
+I enjoy building systems that reduce manual work and make deployment less fragile.
+
+### `MISSION OBJECTIVES`
+
+- **Automate** repetitive engineering and delivery workflows.
+- **Deploy** containerized services across Linux and cloud environments.
+- **Operate** services with practical health checks, service management, and reproducible environments.
+- **Build** backend systems when the infrastructure needs a deeper software-engineering layer.
+
+---
+
+## `02 // TECHNICAL ARSENAL`
+
+### `INFRASTRUCTURE`
+
+![Linux](https://img.shields.io/badge/Linux-0b0b12?style=for-the-badge&logo=linux&logoColor=00e5ff)
+![Bash](https://img.shields.io/badge/Bash-0b0b12?style=for-the-badge&logo=gnubash&logoColor=9b5cff)
+![Docker](https://img.shields.io/badge/Docker-0b0b12?style=for-the-badge&logo=docker&logoColor=00e5ff)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0b0b12?style=for-the-badge&logo=docker&logoColor=9b5cff)
+![Nginx](https://img.shields.io/badge/Nginx-0b0b12?style=for-the-badge&logo=nginx&logoColor=00e5ff)
+![systemd](https://img.shields.io/badge/systemd-0b0b12?style=for-the-badge&logo=systemd&logoColor=9b5cff)
+![Incus](https://img.shields.io/badge/Incus-0b0b12?style=for-the-badge&logo=lxc&logoColor=00e5ff)
+
+### `CI/CD + AUTOMATION`
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0b0b12?style=for-the-badge&logo=githubactions&logoColor=00e5ff)
+![Google Cloud Build](https://img.shields.io/badge/Cloud%20Build-0b0b12?style=for-the-badge&logo=googlecloud&logoColor=9b5cff)
+![Gitea](https://img.shields.io/badge/Gitea-0b0b12?style=for-the-badge&logo=gitea&logoColor=00e5ff)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0b0b12?style=for-the-badge&logo=git&logoColor=9b5cff)
+
+### `CLOUD`
+
+![GCP](https://img.shields.io/badge/GCP-0b0b12?style=for-the-badge&logo=googlecloud&logoColor=00e5ff)
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-0b0b12?style=for-the-badge&logo=googlecloud&logoColor=9b5cff)
+![Google Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-0b0b12?style=for-the-badge&logo=googlecloud&logoColor=00e5ff)
+![Firebase](https://img.shields.io/badge/Firebase-0b0b12?style=for-the-badge&logo=firebase&logoColor=9b5cff)
+![AWS](https://img.shields.io/badge/AWS-0b0b12?style=for-the-badge&logo=amazonwebservices&logoColor=00e5ff)
+
+### `SOFTWARE LAYER`
+
+![Go](https://img.shields.io/badge/Go-0b0b12?style=for-the-badge&logo=go&logoColor=00e5ff)
+![Python](https://img.shields.io/badge/Python-0b0b12?style=for-the-badge&logo=python&logoColor=9b5cff)
+![SQL](https://img.shields.io/badge/SQL-0b0b12?style=for-the-badge&logo=postgresql&logoColor=00e5ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b0b12?style=for-the-badge&logo=typescript&logoColor=9b5cff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b0b12?style=for-the-badge&logo=javascript&logoColor=00e5ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0b12?style=for-the-badge&logo=postgresql&logoColor=9b5cff)
+
+---
+
+## `03 // ACTIVE / COMPLETED OPERATIONS`
+
+### `[ OP-01 ] AUTOMATED CODE DELIVERY`
+
+**DISION TECH LLC · FULL-STACK ENGINEER · JUL 2026 — SEP 2026**
+
+Built a Bash automation pipeline connecting **Gitea** with an AI coding agent for issue triage, branch creation, and pull-request generation, while keeping **human review as the final merge gate**.
+
+**CONTROL LAYER**
+
+`Automated labeling` → `Git validation` → `Build verification` → `Failure handling` → `Human review`
+
+**INFRASTRUCTURE**
+
+`Ubuntu` · `Incus` · `systemd` · `Nginx` · `Health checks` · `Scheduled snapshots`
+
+---
+
+### `[ OP-02 ] CLOUD MICROSERVICE DEPLOYMENT`
+
+**RMIT UNIVERSITY VIETNAM × NEXTWAY TECHNOLOGY · BACKEND ENGINEER (DEVOPS)**
+
+Supported deployment of a **seven-service microservices application** on **GCP Cloud Run**, with REST-based service communication.
+
+Built automated build/deployment workflows with **GitHub Actions** and **Google Cloud Build**, while using Docker to standardize local and cloud environments.
+
+`7 services` · `Cloud Run` · `Docker` · `GitHub Actions` · `Cloud Build`
+
+---
+
+### `[ OP-03 ] REPEATABLE CONTAINERIZED DELIVERY`
+
+**CHEMIZOL · SOFTWARE ENGINEER · DEC 2025 — APR 2026**
+
+Built and containerized a responsive React catalog covering **200+ chemical products**, maintaining a repeatable deployment workflow for stakeholder testing and review.
+
+`React` · `Docker` · `Deployment workflow`
+
+---
+
+## `04 // SELECTED MISSIONS`
+
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="50%" valign="top">
 
-> whoami
+### `MISSION // CHAT-SERVER`
 
-Le Xuan Loc
-IT Graduate @ RMIT University Vietnam
+**Real-time backend infrastructure**
 
-Junior DevOps / Cloud Engineer
-Ho Chi Minh City, Vietnam
+`Go` · `PostgreSQL` · `WebSocket` · `JWT` · `Docker`
 
-> Build it.
-> Automate it.
-> Deploy it.
+Concurrent Hub architecture using goroutines/channels with dedicated read/write goroutines per connection.
+
+Authentication is performed before the WebSocket handshake, with bcrypt password hashing and PostgreSQL-backed message-history replay.
+
+**[ ACCESS REPOSITORY → ](https://github.com/XU4NLOC/chat-server)**
 
 </td>
-<td width="48%" valign="top">
+<td width="50%" valign="top">
 
-┌─────────────────────────────┐
-│ $ whoami                    │
-├─────────────────────────────┤
-│ Le Xuan Loc                 │
-│                             │
-│ IT Graduate @ RMIT Vietnam  │
-│ Junior DevOps / Cloud       │
-│ Engineer                    │
-│                             │
-│ >_                          │
-└─────────────────────────────┘
+### `MISSION // PORTSCANNER`
+
+**Concurrent network tooling**
+
+`Go` · `goroutines` · `sync.WaitGroup`
+
+Worker-pool based TCP port scanner with configurable host, port range, worker count, and timeout.
+
+Reduced a 1,024-port scan from **~100s to under 2s** versus sequential scanning.
+
+**[ ACCESS REPOSITORY → ](https://github.com/XU4NLOC/portscanner)**
 
 </td>
 </tr>
 </table>
 
-DevOps / Cloud engineer focused on infrastructure automation, containerized deployments, CI/CD, and backend services.
+---
 
-> tech_stack
+## `05 // OPERATING MODEL`
 
-<div align="center">
+```text
+                   ┌─────────────────────────┐
+                   │       SOURCE CODE       │
+                   └────────────┬────────────┘
+                                │
+                                ▼
+                   ┌─────────────────────────┐
+                   │       VALIDATION         │
+                   │ Git / Build / Checks     │
+                   └────────────┬────────────┘
+                                │
+                                ▼
+                   ┌─────────────────────────┐
+                   │       CONTAINERIZE       │
+                   │        Docker            │
+                   └────────────┬────────────┘
+                                │
+                                ▼
+            ┌───────────────────┴───────────────────┐
+            │                                       │
+            ▼                                       ▼
+   ┌─────────────────┐                    ┌─────────────────┐
+   │    LINUX HOST   │                    │       GCP       │
+   │ Ubuntu / Incus  │                    │    Cloud Run    │
+   │ systemd / Nginx│                    │  Build / Storage │
+   └────────┬────────┘                    └────────┬────────┘
+            │                                      │
+            └──────────────────┬───────────────────┘
+                               ▼
+                   ┌─────────────────────────┐
+                   │   HEALTH / OPERATIONS   │
+                   │ checks · snapshots      │
+                   │ repeatable environments │
+                   └─────────────────────────┘
+```
 
-☁️ CLOUD & INFRASTRUCTURE
+---
 
-⚙️ CI/CD & AUTOMATION
+## `06 // EXPERIENCE LOG`
 
-💻 LANGUAGES & DATA
+<details>
+<summary><b>DISION TECH LLC</b> · Full-Stack Engineer · Jul 2026 — Sep 2026</summary>
 
-🧰 TOOLS
+- Built Bash automation linking Gitea with an AI coding agent for issue triage, branch creation, and pull-request generation.
+- Added automated labeling, Git validation, build verification, and failure handling before merge.
+- Deployed the website, automation service, and preview environments on Ubuntu with Incus.
+- Provisioned isolated containers, networks, resource limits, and systemd-managed services.
+- Configured Nginx, health checks, scheduled snapshots, and preview synchronization.
+- Authored deployment and service-health test cases and documentation.
 
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,gcp,aws&theme=dark" width="280">
+</details>
 
-<img src="https://skillicons.dev/icons?i=githubactions,bash,git,github&theme=dark" width="240">
+<details>
+<summary><b>CHEMIZOL</b> · Software Engineer · Dec 2025 — Apr 2026</summary>
 
-<img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,postgres&theme=dark" width="280">
+- Built a searchable React catalog covering 200+ chemical products.
+- Containerized the application with Docker.
+- Maintained a repeatable deployment workflow for stakeholder testing and review.
 
-<img src="https://skillicons.dev/icons?i=postman,firebase&theme=dark" width="120">
+</details>
 
-</div>
+<details>
+<summary><b>AURION TECHNOLOGY</b> · Software Engineer · Nov 2025 — Jan 2026</summary>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+- Implemented Python application workflow states for donor-patient matching logic.
+- Integrated streaming AI responses into backend APIs.
+- Investigated and resolved pre-production stability issues.
 
-> featured_projects
+</details>
 
-01 Gitea + AI Coding Agent
+<details>
+<summary><b>RMIT UNIVERSITY VIETNAM × NEXTWAY TECHNOLOGY</b> · Backend Engineer (DevOps) · Mar 2025 — Sep 2025</summary>
 
-Automated issue triage → coding agent → pull-request generation workflow.
+- Supported deployment of a seven-service microservices application on GCP Cloud Run.
+- Automated build and deployment workflows with GitHub Actions and Google Cloud Build.
+- Containerized services with Docker to standardize local/cloud environments.
+- Integrated Firebase and Google Cloud Storage.
 
-Bash Gitea AI Linux Incus
+</details>
 
-02 Multi-Cloud CI/CD
+---
 
-Automated deployment workflows using GitHub Actions, Google Cloud Build, Cloud Run and AWS.
+## `07 // TELEMETRY`
 
-Docker GCP AWS CI/CD
+```text
+[ GITHUB ACTIVITY ]
+████████████████████████████████████████████████
 
-03 Go Backend Services
+[ CURRENT FOCUS ]
+DevOps        ████████████████████  deployment / automation
+Cloud         █████████████████    GCP / Cloud Run
+Containers    ███████████████████  Docker / Incus
+Backend       ███████████████      Go / APIs / WebSockets
+Systems       █████████████████    Linux / Bash / services
+```
 
-REST APIs built to be containerized and deployed through automated pipelines.
+My strongest current direction is **DevOps / Cloud**, with backend engineering as the software layer that supports it.
 
-Go PostgreSQL Docker REST
+---
 
-04 Self-Hosted Infrastructure
+## `08 // COMMS`
 
-Linux services managed with Nginx, systemd and Incus on Ubuntu.
+```text
+LINKEDIN : linkedin.com/in/le-xuanloc
+EMAIL    : lexuanloc0501.work@gmail.com
+GITHUB   : github.com/XU4NLOC
 
-Ubuntu Nginx systemd Incus
+MESSAGE CHANNEL : OPEN
+```
 
-</td>
+[![Connect on LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-00e5ff?style=for-the-badge&logo=linkedin&logoColor=0b0b12)](https://www.linkedin.com/in/le-xuanloc)
+[![Send Email](https://img.shields.io/badge/OPEN_COMMS-9b5cff?style=for-the-badge&logo=minutemailer&logoColor=ffffff)](mailto:lexuanloc0501.work@gmail.com)
 
-<td width="45%" valign="top">
-
-> ~/projects
-
-$ tree -L 2
-
-.
-├── infrastructure/
-│   ├── docker/
-│   ├── k8s/
-│   └── terraform/
-│
-├── services/
-│   ├── api/
-│   └── worker/
-│
-├── scripts/
-│   ├── deploy.sh
-│   └── setup.sh
-│
-└── docs/
-    └── architecture.md
-
-       .--------.
-      /          \
-     /   MATRIX   \
-    |     MODE     |
-     \            /
-      '----------'
-
-      AUTOMATE
-      DEPLOY
-      SCALE
-
-      >_ █
-
-</td>
-</tr>
-</table>
-
-> infrastructure
-
-<div align="center">
-
-                         ┌──────────────────┐
-                         │    SOURCE CODE   │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                     ┌────────────────────────┐
-                     │       CI / CD           │
-                     │ GitHub Actions · Gitea  │
-                     └───────────┬────────────┘
-                                 │
-                                 ▼
-                     ┌────────────────────────┐
-                     │      CONTAINERS         │
-                     │         Docker          │
-                     └───────────┬────────────┘
-                                 │
-                       ┌─────────┴─────────┐
-                       ▼                   ▼
-                ┌─────────────┐     ┌─────────────┐
-                │     GCP     │     │     AWS     │
-                │ Cloud Build │     │   Cloud     │
-                │ Cloud Run   │     │   Services  │
-                └─────────────┘     └─────────────┘
-
-</div>
-
-> github_stats
+---
 
 <div align="center">
 
-<a href="https://github.com/XU4NLOC">
-<img
-  src="https://github-readme-stats.vercel.app/api?username=XU4NLOC&show_icons=true&hide_border=true&theme=dark&bg_color=050807&title_color=00FF88&icon_color=00FF88&text_color=B7FFD9&ring_color=00FF88&include_all_commits=true"
-  height="175"
-  alt="GitHub statistics"
-/>
-</a>
-
-<a href="https://github.com/XU4NLOC">
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=XU4NLOC&layout=compact&hide_border=true&theme=dark&bg_color=050807&title_color=00FF88&text_color=B7FFD9&langs_count=8"
-  height="175"
-  alt="Top languages"
-/>
-</a>
-
-</div>
-
-> contribution_snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/XU4NLOC/XU4NLOC/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/XU4NLOC/XU4NLOC/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="92%"
-    src="https://raw.githubusercontent.com/XU4NLOC/XU4NLOC/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation"
-  />
-</picture>
-
-</div>
-
-<div align="center">
-
-╭──────────────────────────────────────────────────────────────────╮
-│                                                                  │
-│   > connect.sh                                                   │
-│                                                                  │
-│   [+] GitHub       [+] LinkedIn       [+] Email                  │
-│                                                                  │
-│   [STATUS] ● OPEN FOR OPPORTUNITIES                              │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
-
-<a href="https://github.com/XU4NLOC">
-<img src="https://img.shields.io/badge/GITHUB-050807?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/le-xuanloc/">
-<img src="https://img.shields.io/badge/LINKEDIN-050807?style=for-the-badge&logo=linkedin&logoColor=00FF88" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:lexuanloc0501.work@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-050807?style=for-the-badge&logo=gmail&logoColor=00FF88" alt="Email" />
-</a>
-
-<br><br>
-
-<sub><code>Automate · Deploy · Scale · Repeat</code></sub>
-
-<br><br>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:003B24,100:020604&height=110&section=footer&animation=fadeIn"
-width="100%"
-alt="Matrix footer"
-/>
+```text
+┌─────────────────────────────────────────────────────────────┐
+│ XU4NLOC // MISSION CONTROL                                  │
+│                                                             │
+│ build systems that deploy themselves                        │
+│ keep infrastructure observable                              │
+│ and turn repetitive work into automation                    │
+│                                                             │
+│ STATUS: ONLINE // END OF TRANSMISSION                       │
+└─────────────────────────────────────────────────────────────┘
+```
 
 </div>
