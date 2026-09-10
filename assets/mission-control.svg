@@ -1,0 +1,81 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07070A"/>
+      <stop offset="0.55" stop-color="#100A1B"/>
+      <stop offset="1" stop-color="#07070A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="80" y1="60" x2="1120" y2="370" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF"/>
+      <stop offset="0.5" stop-color="#9B5CFF"/>
+      <stop offset="1" stop-color="#00E5FF"/>
+    </linearGradient>
+    <filter id="glowCyan">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowPurple">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#6D4C9C" stroke-opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="430" rx="18" fill="url(#bg)"/>
+  <rect x="12" y="12" width="1176" height="406" rx="14" fill="url(#grid)" stroke="#2E2341"/>
+
+  <circle cx="1040" cy="80" r="90" fill="#9B5CFF" fill-opacity="0.08" filter="url(#glowPurple)"/>
+  <circle cx="160" cy="350" r="110" fill="#00E5FF" fill-opacity="0.06" filter="url(#glowCyan)"/>
+
+  <path d="M60 72H1140" stroke="url(#line)" stroke-width="2"/>
+  <path d="M60 355H1140" stroke="url(#line)" stroke-opacity="0.35"/>
+
+  <text x="72" y="55" fill="#00E5FF" font-family="monospace" font-size="14" letter-spacing="3">MISSION CONTROL // NODE XU4NLOC</text>
+  <circle cx="1112" cy="49" r="6" fill="#00E5FF" filter="url(#glowCyan)"/>
+  <text x="1128" y="55" fill="#8EF7FF" font-family="monospace" font-size="12" text-anchor="end">ONLINE</text>
+
+  <!-- signature operator silhouette -->
+  <g transform="translate(760 88)">
+    <path d="M120 238L152 156L176 120L212 106L250 120L276 156L308 238"
+          stroke="#00E5FF" stroke-opacity="0.5" stroke-width="2"/>
+    <path d="M182 122L199 78L229 60L259 78L276 122" fill="#11101A" stroke="#9B5CFF" stroke-width="3"/>
+    <path d="M175 112L214 94L274 112L255 156L194 156Z" fill="#08080D" stroke="#00E5FF" stroke-width="2"/>
+    <path d="M197 127L220 127" stroke="#00E5FF" stroke-width="4"/>
+    <path d="M239 127L258 127" stroke="#9B5CFF" stroke-width="4"/>
+    <path d="M196 184L210 174L226 190L244 174L262 190L276 184L290 222H182Z"
+          fill="#0C0B12" stroke="#9B5CFF" stroke-width="2"/>
+    <path d="M177 216L153 258M291 216L317 258" stroke="#00E5FF" stroke-width="3"/>
+    <path d="M214 241L214 282M258 241L258 282" stroke="#9B5CFF" stroke-width="3"/>
+  </g>
+
+  <!-- HUD cards -->
+  <rect x="72" y="104" width="570" height="208" rx="12" fill="#0A0910" stroke="#2B2140"/>
+  <text x="96" y="135" fill="#9B5CFF" font-family="monospace" font-size="13" letter-spacing="2">OPERATOR PROFILE</text>
+  <text x="96" y="184" fill="#F3F0F8" font-family="monospace" font-weight="700" font-size="40" letter-spacing="2">LE XUAN LOC</text>
+  <text x="98" y="213" fill="#00E5FF" font-family="monospace" font-size="15">DEVOPS / CLOUD ENGINEER</text>
+  <text x="98" y="252" fill="#AAA2B8" font-family="monospace" font-size="14">AUTOMATION · INFRASTRUCTURE · DEPLOYMENT</text>
+
+  <rect x="96" y="271" width="12" height="12" rx="2" fill="#00E5FF"/>
+  <text x="120" y="281" fill="#D9D2E3" font-family="monospace" font-size="12">LINUX</text>
+  <rect x="203" y="271" width="12" height="12" rx="2" fill="#9B5CFF"/>
+  <text x="227" y="281" fill="#D9D2E3" font-family="monospace" font-size="12">DOCKER</text>
+  <rect x="328" y="271" width="12" height="12" rx="2" fill="#00E5FF"/>
+  <text x="352" y="281" fill="#D9D2E3" font-family="monospace" font-size="12">GCP</text>
+  <rect x="418" y="271" width="12" height="12" rx="2" fill="#9B5CFF"/>
+  <text x="442" y="281" fill="#D9D2E3" font-family="monospace" font-size="12">CI/CD</text>
+
+  <!-- terminal -->
+  <rect x="72" y="326" width="570" height="60" rx="10" fill="#050507" stroke="#251B37"/>
+  <text x="96" y="351" fill="#6B6175" font-family="monospace" font-size="12">$</text>
+  <text x="112" y="351" fill="#00E5FF" font-family="monospace" font-size="12">./mission-control --status</text>
+  <text x="96" y="373" fill="#9B5CFF" font-family="monospace" font-size="11">deploy · observe · automate · repeat</text>
+
+  <!-- right-side telemetry -->
+  <text x="1010" y="337" fill="#00E5FF" font-family="monospace" font-size="11" text-anchor="middle" letter-spacing="2">SIGNATURE NODE</text>
+  <path d="M1035 106V292" stroke="#3A2E51" stroke-dasharray="4 6"/>
+  <path d="M850 305H1135" stroke="#3A2E51"/>
+
+  <text x="1110" y="385" fill="#62596B" font-family="monospace" font-size="10" text-anchor="end">XU4NLOC // 001</text>
+</svg>
