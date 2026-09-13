@@ -1,294 +1,196 @@
-<div align="center">
+# Le Xuan Loc
 
-<img src="assets/mission-control.svg" alt="XU4NLOC Mission Control" width="100%">
+### DevOps / Cloud Engineer · Backend-leaning Software Engineer
 
-# `XU4NLOC // MISSION CONTROL`
+I build and operate software systems where application code meets infrastructure.
 
-### DEVOPS / CLOUD ENGINEER · BACKEND-LEANING SOFTWARE ENGINEER
+My current focus is **DevOps, cloud engineering, automation, and containerized deployment**, backed by hands-on experience with Linux systems and backend development. I care about making delivery **repeatable, observable, and less dependent on manual steps**.
 
-> **SYSTEM STATUS:** `ONLINE`  
-> **CURRENT OBJECTIVE:** `AUTOMATE · DEPLOY · OBSERVE · IMPROVE`
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0b0b12?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=151022)](https://www.linkedin.com/in/le-xuanloc)
-[![Email](https://img.shields.io/badge/EMAIL-0b0b12?style=for-the-badge&logo=gmail&logoColor=9b5cff&labelColor=151022)](mailto:lexuanloc0501.work@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-XU4NLOC-0b0b12?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=151022)](https://github.com/XU4NLOC)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/le-xuanloc) · [GitHub](https://github.com/XU4NLOC) · [Email](mailto:lexuanloc0501.work@gmail.com)
 
 ---
 
-## `01 // MISSION PROFILE`
+## What I work on
 
-```text
-OPERATOR    : Le Xuan Loc
-CALLSIGN    : XU4NLOC
-CLASS       : DevOps / Cloud Engineer
-BACKGROUND  : Software Engineering + Cloud Technologies
-SPECIALTY   : Automation / Infrastructure / Deployment
-BASE        : Ho Chi Minh City, Vietnam
-```
+- **Automation** — CI/CD workflows, scripting, validation, deployment automation
+- **Cloud** — GCP, Cloud Run, Cloud Storage, Firebase, AWS
+- **Containers & Linux** — Docker, Docker Compose, Incus, Ubuntu, systemd, Nginx
+- **Backend systems** — Go, Python, APIs, WebSockets, PostgreSQL
+- **Engineering operations** — health checks, reproducible environments, service management, failure handling
 
-I'm a recent Information Technology graduate focused on **DevOps and cloud engineering**, with a software-engineering foundation in backend systems.
-
-My work sits where **code meets infrastructure**: containerizing services, automating delivery pipelines, deploying Linux-based environments, and keeping services observable and repeatable.
-
-I enjoy building systems that reduce manual work and make deployment less fragile.
-
-### `MISSION OBJECTIVES`
-
-- **Automate** repetitive engineering and delivery workflows.
-- **Deploy** containerized services across Linux and cloud environments.
-- **Operate** services with practical health checks, service management, and reproducible environments.
-- **Build** backend systems when the infrastructure needs a deeper software-engineering layer.
+> **Current direction:** DevOps / Cloud, with backend engineering as the software layer behind the infrastructure.
 
 ---
 
-## `02 // TECHNICAL ARSENAL`
+## Selected work
 
-### `INFRASTRUCTURE`
+### Automated Code Delivery
+**Dision Tech LLC · Full-Stack Engineer · Jul 2026 – Sep 2026**
 
-![Linux](https://img.shields.io/badge/Linux-0b0b12?style=for-the-badge&logo=linux&logoColor=00e5ff)
-![Bash](https://img.shields.io/badge/Bash-0b0b12?style=for-the-badge&logo=gnubash&logoColor=9b5cff)
-![Docker](https://img.shields.io/badge/Docker-0b0b12?style=for-the-badge&logo=docker&logoColor=00e5ff)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0b0b12?style=for-the-badge&logo=docker&logoColor=9b5cff)
-![Nginx](https://img.shields.io/badge/Nginx-0b0b12?style=for-the-badge&logo=nginx&logoColor=00e5ff)
-![systemd](https://img.shields.io/badge/systemd-0b0b12?style=for-the-badge&logo=systemd&logoColor=9b5cff)
-![Incus](https://img.shields.io/badge/Incus-0b0b12?style=for-the-badge&logo=lxc&logoColor=00e5ff)
+Built a Bash-based automation pipeline connecting **Gitea** with an AI coding agent for issue triage, branch creation, and pull-request generation.
 
-### `CI/CD + AUTOMATION`
+**Highlights**
+- Automated labeling and Git validation
+- Added build verification and failure handling
+- Kept **human review as the final merge gate**
+- Deployed the website, automation service, and preview environments on Ubuntu + Incus
+- Managed systemd services, Nginx, health checks, and scheduled snapshots
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0b0b12?style=for-the-badge&logo=githubactions&logoColor=00e5ff)
-![Google Cloud Build](https://img.shields.io/badge/Cloud%20Build-0b0b12?style=for-the-badge&logo=googlecloud&logoColor=9b5cff)
-![Gitea](https://img.shields.io/badge/Gitea-0b0b12?style=for-the-badge&logo=gitea&logoColor=00e5ff)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0b0b12?style=for-the-badge&logo=git&logoColor=9b5cff)
-
-### `CLOUD`
-
-![GCP](https://img.shields.io/badge/GCP-0b0b12?style=for-the-badge&logo=googlecloud&logoColor=00e5ff)
-![Cloud Run](https://img.shields.io/badge/Cloud%20Run-0b0b12?style=for-the-badge&logo=googlecloud&logoColor=9b5cff)
-![Google Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-0b0b12?style=for-the-badge&logo=googlecloud&logoColor=00e5ff)
-![Firebase](https://img.shields.io/badge/Firebase-0b0b12?style=for-the-badge&logo=firebase&logoColor=9b5cff)
-![AWS](https://img.shields.io/badge/AWS-0b0b12?style=for-the-badge&logo=amazonwebservices&logoColor=00e5ff)
-
-### `SOFTWARE LAYER`
-
-![Go](https://img.shields.io/badge/Go-0b0b12?style=for-the-badge&logo=go&logoColor=00e5ff)
-![Python](https://img.shields.io/badge/Python-0b0b12?style=for-the-badge&logo=python&logoColor=9b5cff)
-![SQL](https://img.shields.io/badge/SQL-0b0b12?style=for-the-badge&logo=postgresql&logoColor=00e5ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0b0b12?style=for-the-badge&logo=typescript&logoColor=9b5cff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0b0b12?style=for-the-badge&logo=javascript&logoColor=00e5ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0b12?style=for-the-badge&logo=postgresql&logoColor=9b5cff)
+`Bash` `Gitea` `Ubuntu` `Incus` `systemd` `Nginx`
 
 ---
 
-## `03 // ACTIVE / COMPLETED OPERATIONS`
+### Cloud Microservice Deployment
+**RMIT University Vietnam × NextWay Technology · Backend Engineer (DevOps) · Mar 2025 – Sep 2025**
 
-### `[ OP-01 ] AUTOMATED CODE DELIVERY`
+Supported deployment of a **7-service microservices application** on **GCP Cloud Run**, using REST-based service communication.
 
-**DISION TECH LLC · FULL-STACK ENGINEER · JUL 2026 — SEP 2026**
+**Highlights**
+- Automated build and deployment with GitHub Actions + Google Cloud Build
+- Containerized services with Docker
+- Integrated Firebase and Google Cloud Storage
+- Standardized local and cloud environments
 
-Built a Bash automation pipeline connecting **Gitea** with an AI coding agent for issue triage, branch creation, and pull-request generation, while keeping **human review as the final merge gate**.
-
-**CONTROL LAYER**
-
-`Automated labeling` → `Git validation` → `Build verification` → `Failure handling` → `Human review`
-
-**INFRASTRUCTURE**
-
-`Ubuntu` · `Incus` · `systemd` · `Nginx` · `Health checks` · `Scheduled snapshots`
+`GCP` `Cloud Run` `Docker` `GitHub Actions` `Cloud Build` `Firebase`
 
 ---
 
-### `[ OP-02 ] CLOUD MICROSERVICE DEPLOYMENT`
+### Repeatable Containerized Delivery
+**Chemizol · Software Engineer · Dec 2025 – Apr 2026**
 
-**RMIT UNIVERSITY VIETNAM × NEXTWAY TECHNOLOGY · BACKEND ENGINEER (DEVOPS)**
+Built a responsive React catalog covering **200+ chemical products** and established a repeatable deployment workflow for testing and stakeholder review.
 
-Supported deployment of a **seven-service microservices application** on **GCP Cloud Run**, with REST-based service communication.
-
-Built automated build/deployment workflows with **GitHub Actions** and **Google Cloud Build**, while using Docker to standardize local and cloud environments.
-
-`7 services` · `Cloud Run` · `Docker` · `GitHub Actions` · `Cloud Build`
+`React` `Docker` `Deployment`
 
 ---
 
-### `[ OP-03 ] REPEATABLE CONTAINERIZED DELIVERY`
+## Projects
 
-**CHEMIZOL · SOFTWARE ENGINEER · DEC 2025 — APR 2026**
+| Project | What it demonstrates |
+| --- | --- |
+| [Chat Server](https://github.com/XU4NLOC/chat-server) | Concurrent Go backend, WebSockets, JWT authentication, PostgreSQL message history, Docker |
+| [Port Scanner](https://github.com/XU4NLOC/portscanner) | Go concurrency, worker pools, `sync.WaitGroup`, configurable TCP scanning |
 
-Built and containerized a responsive React catalog covering **200+ chemical products**, maintaining a repeatable deployment workflow for stakeholder testing and review.
+### Chat Server
 
-`React` · `Docker` · `Deployment workflow`
+A real-time backend built around a concurrent Hub architecture, with dedicated read/write goroutines per WebSocket connection.
 
----
+- Authentication before the WebSocket handshake
+- bcrypt password hashing
+- PostgreSQL-backed message-history replay
+- Dockerized development/runtime environment
 
-## `04 // SELECTED MISSIONS`
+**Stack:** `Go` `PostgreSQL` `WebSocket` `JWT` `Docker`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Port Scanner
 
-### `MISSION // CHAT-SERVER`
+A concurrent TCP port scanner using a worker-pool model.
 
-**Real-time backend infrastructure**
+- Configurable host, port range, worker count, and timeout
+- Reduced a 1,024-port scan from roughly **100 seconds to under 2 seconds** versus sequential scanning
 
-`Go` · `PostgreSQL` · `WebSocket` · `JWT` · `Docker`
-
-Concurrent Hub architecture using goroutines/channels with dedicated read/write goroutines per connection.
-
-Authentication is performed before the WebSocket handshake, with bcrypt password hashing and PostgreSQL-backed message-history replay.
-
-**[ ACCESS REPOSITORY → ](https://github.com/XU4NLOC/chat-server)**
-
-</td>
-<td width="50%" valign="top">
-
-### `MISSION // PORTSCANNER`
-
-**Concurrent network tooling**
-
-`Go` · `goroutines` · `sync.WaitGroup`
-
-Worker-pool based TCP port scanner with configurable host, port range, worker count, and timeout.
-
-Reduced a 1,024-port scan from **~100s to under 2s** versus sequential scanning.
-
-**[ ACCESS REPOSITORY → ](https://github.com/XU4NLOC/portscanner)**
-
-</td>
-</tr>
-</table>
+**Stack:** `Go` `goroutines` `sync.WaitGroup`
 
 ---
 
-## `05 // OPERATING MODEL`
+## Technical stack
 
-```text
-                   ┌─────────────────────────┐
-                   │       SOURCE CODE       │
-                   └────────────┬────────────┘
-                                │
-                                ▼
-                   ┌─────────────────────────┐
-                   │       VALIDATION         │
-                   │ Git / Build / Checks     │
-                   └────────────┬────────────┘
-                                │
-                                ▼
-                   ┌─────────────────────────┐
-                   │       CONTAINERIZE       │
-                   │        Docker            │
-                   └────────────┬────────────┘
-                                │
-                                ▼
-            ┌───────────────────┴───────────────────┐
-            │                                       │
-            ▼                                       ▼
-   ┌─────────────────┐                    ┌─────────────────┐
-   │    LINUX HOST   │                    │       GCP       │
-   │ Ubuntu / Incus  │                    │    Cloud Run    │
-   │ systemd / Nginx│                    │  Build / Storage │
-   └────────┬────────┘                    └────────┬────────┘
-            │                                      │
-            └──────────────────┬───────────────────┘
-                               ▼
-                   ┌─────────────────────────┐
-                   │   HEALTH / OPERATIONS   │
-                   │ checks · snapshots      │
-                   │ repeatable environments │
-                   └─────────────────────────┘
-```
+### Infrastructure
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-111827?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-111827?style=flat-square&logo=nginx&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-111827?style=flat-square&logo=systemd&logoColor=white)
+![Incus](https://img.shields.io/badge/Incus-111827?style=flat-square&logo=lxc&logoColor=white)
+
+### CI/CD & Automation
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=flat-square&logo=githubactions&logoColor=white)
+![Google Cloud Build](https://img.shields.io/badge/Cloud%20Build-111827?style=flat-square&logo=googlecloud&logoColor=white)
+![Gitea](https://img.shields.io/badge/Gitea-111827?style=flat-square&logo=gitea&logoColor=white)
+
+### Cloud
+![GCP](https://img.shields.io/badge/GCP-111827?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-111827?style=flat-square&logo=googlecloud&logoColor=white)
+![Google Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-111827?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+### Software
+![Go](https://img.shields.io/badge/Go-111827?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-## `06 // EXPERIENCE LOG`
+## Experience
 
 <details>
-<summary><b>DISION TECH LLC</b> · Full-Stack Engineer · Jul 2026 — Sep 2026</summary>
+<summary><strong>Dision Tech LLC</strong> · Full-Stack Engineer · Jul 2026 – Sep 2026</summary>
 
-- Built Bash automation linking Gitea with an AI coding agent for issue triage, branch creation, and pull-request generation.
-- Added automated labeling, Git validation, build verification, and failure handling before merge.
-- Deployed the website, automation service, and preview environments on Ubuntu with Incus.
-- Provisioned isolated containers, networks, resource limits, and systemd-managed services.
-- Configured Nginx, health checks, scheduled snapshots, and preview synchronization.
-- Authored deployment and service-health test cases and documentation.
+- Built Bash automation linking Gitea with an AI coding agent for issue triage, branch creation, and pull-request generation
+- Added automated labeling, Git validation, build verification, and failure handling before merge
+- Deployed the website, automation service, and preview environments on Ubuntu with Incus
+- Provisioned isolated containers, networks, resource limits, and systemd-managed services
+- Configured Nginx, health checks, scheduled snapshots, and preview synchronization
+- Authored deployment and service-health test cases and documentation
 
 </details>
 
 <details>
-<summary><b>CHEMIZOL</b> · Software Engineer · Dec 2025 — Apr 2026</summary>
+<summary><strong>Chemizol</strong> · Software Engineer · Dec 2025 – Apr 2026</summary>
 
-- Built a searchable React catalog covering 200+ chemical products.
-- Containerized the application with Docker.
-- Maintained a repeatable deployment workflow for stakeholder testing and review.
-
-</details>
-
-<details>
-<summary><b>AURION TECHNOLOGY</b> · Software Engineer · Nov 2025 — Jan 2026</summary>
-
-- Implemented Python application workflow states for donor-patient matching logic.
-- Integrated streaming AI responses into backend APIs.
-- Investigated and resolved pre-production stability issues.
+- Built a searchable React catalog covering 200+ chemical products
+- Containerized the application with Docker
+- Maintained a repeatable deployment workflow for stakeholder testing and review
 
 </details>
 
 <details>
-<summary><b>RMIT UNIVERSITY VIETNAM × NEXTWAY TECHNOLOGY</b> · Backend Engineer (DevOps) · Mar 2025 — Sep 2025</summary>
+<summary><strong>Aurion Technology</strong> · Software Engineer · Nov 2025 – Jan 2026</summary>
 
-- Supported deployment of a seven-service microservices application on GCP Cloud Run.
-- Automated build and deployment workflows with GitHub Actions and Google Cloud Build.
-- Containerized services with Docker to standardize local/cloud environments.
-- Integrated Firebase and Google Cloud Storage.
+- Implemented Python application workflow states for donor-patient matching logic
+- Integrated streaming AI responses into backend APIs
+- Investigated and resolved pre-production stability issues
+
+</details>
+
+<details>
+<summary><strong>RMIT University Vietnam × NextWay Technology</strong> · Backend Engineer (DevOps) · Mar 2025 – Sep 2025</summary>
+
+- Supported deployment of a seven-service microservices application on GCP Cloud Run
+- Automated build and deployment workflows with GitHub Actions and Google Cloud Build
+- Containerized services with Docker to standardize local/cloud environments
+- Integrated Firebase and Google Cloud Storage
 
 </details>
 
 ---
 
-## `07 // TELEMETRY`
+## How I approach infrastructure
 
-```text
-[ GITHUB ACTIVITY ]
-████████████████████████████████████████████████
+I optimize for a simple chain:
 
-[ CURRENT FOCUS ]
-DevOps        ████████████████████  deployment / automation
-Cloud         █████████████████    GCP / Cloud Run
-Containers    ███████████████████  Docker / Incus
-Backend       ███████████████      Go / APIs / WebSockets
-Systems       █████████████████    Linux / Bash / services
-```
+**Source → Validate → Build → Containerize → Deploy → Observe**
 
-My strongest current direction is **DevOps / Cloud**, with backend engineering as the software layer that supports it.
+That means:
 
----
-
-## `08 // COMMS`
-
-```text
-LINKEDIN : linkedin.com/in/le-xuanloc
-EMAIL    : lexuanloc0501.work@gmail.com
-GITHUB   : github.com/XU4NLOC
-
-MESSAGE CHANNEL : OPEN
-```
-
-[![Connect on LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-00e5ff?style=for-the-badge&logo=linkedin&logoColor=0b0b12)](https://www.linkedin.com/in/le-xuanloc)
-[![Send Email](https://img.shields.io/badge/OPEN_COMMS-9b5cff?style=for-the-badge&logo=minutemailer&logoColor=ffffff)](mailto:lexuanloc0501.work@gmail.com)
+- version-controlled source and reproducible builds
+- automated validation before deployment
+- standardized runtime environments
+- explicit service management on Linux
+- health checks and operational visibility
+- fewer manual steps and easier recovery when something fails
 
 ---
 
-<div align="center">
+## Contact
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│ XU4NLOC // MISSION CONTROL                                  │
-│                                                             │
-│ build systems that deploy themselves                        │
-│ keep infrastructure observable                              │
-│ and turn repetitive work into automation                    │
-│                                                             │
-│ STATUS: ONLINE // END OF TRANSMISSION                       │
-└─────────────────────────────────────────────────────────────┘
-```
+I’m interested in work around **DevOps, cloud infrastructure, backend systems, automation, and deployment engineering**.
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/le-xuanloc) · [GitHub](https://github.com/XU4NLOC) · [lexuanloc0501.work@gmail.com](mailto:lexuanloc0501.work@gmail.com)
+
+<sub>Ho Chi Minh City, Vietnam</sub>
