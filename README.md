@@ -1,68 +1,34 @@
 <div align="center">
 
-# Le Xuan Loc
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=180&section=header&text=Le%20Xuan%20Loc&fontSize=46&fontColor=58A6FF&fontAlignY=38&desc=DevOps%20%2F%20Cloud%20Engineer&descAlignY=58&descSize=18&descColor=C9D1D9" />
 
-**DevOps / Cloud Engineer** — backend-leaning software engineer, based in Ho Chi Minh City
-
-[LinkedIn](https://www.linkedin.com/in/le-xuanloc) · [Email](mailto:lexuanloc0501.work@gmail.com) · [GitHub](https://github.com/XU4NLOC)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+infrastructure+that+disappears;Deploys+that+just+work%2C+pipelines+that+catch+failures+early." />
 
 </div>
 
-<br>
+DevOps / Cloud Engineer based in Ho Chi Minh City. I take messy manual deployment processes and turn them into something boring and reliable: containers that heal themselves, CI that blocks bad merges, systems that fail loudly in staging instead of quietly in prod.
 
-## About
-
-I'm a recent IT graduate working at the intersection of software and infrastructure — containerizing services, automating delivery pipelines, and deploying and operating Linux-based environments. I like building systems that remove manual steps and make deployment predictable rather than fragile.
-
-<br>
-
-## Stack
-
-**Infrastructure** — Linux · Bash · Docker · Docker Compose · Nginx · systemd · Incus
-**CI/CD** — GitHub Actions · Google Cloud Build · Gitea
-**Cloud** — GCP · Cloud Run · Cloud Storage · Firebase · AWS
-**Software** — Go · Python · TypeScript · JavaScript · SQL · PostgreSQL
-
-<br>
-
-## Experience
-
-**Dision Tech LLC** — Full-Stack Engineer
-*Jul 2026 – Sep 2026*
-Built a Bash automation pipeline connecting Gitea with an AI coding agent for issue triage, branch creation, and pull-request generation — with automated labeling, build verification, and failure handling, keeping human review as the final merge gate. Deployed the service on Ubuntu/Incus with systemd-managed containers, Nginx, health checks, and scheduled snapshots.
-
-**Chemizol** — Software Engineer
-*Dec 2025 – Apr 2026*
-Built and containerized a responsive React catalog covering 200+ chemical products, with a repeatable deployment workflow for stakeholder testing and review.
-
-**Aurion Technology** — Software Engineer
-*Nov 2025 – Jan 2026*
-Implemented Python workflow states for donor-patient matching logic, integrated streaming AI responses into backend APIs, and resolved pre-production stability issues.
-
-**RMIT University Vietnam × Nextway Technology** — Backend Engineer (DevOps)
-*Mar 2025 – Sep 2025*
-Supported deployment of a seven-service microservices application on GCP Cloud Run. Automated build/deployment workflows with GitHub Actions and Google Cloud Build, containerized services with Docker, and integrated Firebase and Cloud Storage.
-
-<br>
-
-## Projects
-
-**[chat-server](https://github.com/XU4NLOC/chat-server)** — Go · PostgreSQL · WebSocket · JWT · Docker
-Real-time backend with a concurrent hub architecture — goroutines and channels, dedicated read/write goroutines per connection, bcrypt-hashed auth performed before the WebSocket handshake, and PostgreSQL-backed message history.
-
-**[portscanner](https://github.com/XU4NLOC/portscanner)** — Go · goroutines · sync.WaitGroup
-Worker-pool TCP port scanner with configurable host, port range, worker count, and timeout — cut a 1,024-port scan from ~100s to under 2s versus a sequential scan.
-
-<br>
-
-## Currently
-
-Focused on DevOps and cloud engineering, with backend development (Go, APIs, WebSockets) as the supporting software layer.
+Most recently, I connected an AI coding agent to Gitea for automated issue triage and pull-request generation — with a human still holding the merge button.
 
 <br>
 
 <div align="center">
 
-*let's connect — [LinkedIn](https://www.linkedin.com/in/le-xuanloc) · [Email](mailto:lexuanloc0501.work@gmail.com)*
+### Stack
+
+<img src="https://skillicons.dev/icons?i=go,python,bash,ts,docker,nginx,linux,githubactions,gcp,aws,firebase,git&theme=dark" />
 
 </div>
+
+<br>
+
+<div align="center">
+
+### Reach me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lexuanloc0501.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/le-xuanloc)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0f172a&height=100&section=footer" />
